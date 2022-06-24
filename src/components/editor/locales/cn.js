@@ -1,0 +1,20 @@
+module.exports = {
+  locale_name: '中文',
+  locale_shorthand: ['cn', 'chinese'],
+  // Translations:
+  justifyCenter: '居中',
+  justifyLeft: '左对齐',
+  justifyRight: '右对齐',
+  bold: '加粗',
+  code: '代码',
+  headings: '标题（1-6 级）',
+  link: '超链接',
+  image: '图片',
+  italic: '斜体',
+  orderedList: '顺序列表',
+  unorderedList: '无需列表',
+  removeFormat: '清除格式',
+  separator: null,
+  table: '插入表格',
+  underline: '下划线',
+}
