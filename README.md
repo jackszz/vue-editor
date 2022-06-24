@@ -1,2 +1,2 @@
-# vue3-editor
-基于vue3的富文本编辑器
+# vue-editor
+基于vue的富文本编辑器
